@@ -1,0 +1,7 @@
+C:\Users\rob.ballantyne\source\repos\CSharpSchool\TypesNotes\bin\Debug\TypesNotes.exe.config
+C:\Users\rob.ballantyne\source\repos\CSharpSchool\TypesNotes\bin\Debug\TypesNotes.exe
+C:\Users\rob.ballantyne\source\repos\CSharpSchool\TypesNotes\bin\Debug\TypesNotes.pdb
+C:\Users\rob.ballantyne\source\repos\CSharpSchool\TypesNotes\obj\Debug\TypesNotes.csprojAssemblyReference.cache
+C:\Users\rob.ballantyne\source\repos\CSharpSchool\TypesNotes\obj\Debug\TypesNotes.csproj.CoreCompileInputs.cache
+C:\Users\rob.ballantyne\source\repos\CSharpSchool\TypesNotes\obj\Debug\TypesNotes.exe
+C:\Users\rob.ballantyne\source\repos\CSharpSchool\TypesNotes\obj\Debug\TypesNotes.pdb

@@ -1,0 +1,6 @@
+C:\Users\rob.ballantyne\source\repos\Iterations\Exercises\bin\Debug\Exercises.exe.config
+C:\Users\rob.ballantyne\source\repos\Iterations\Exercises\bin\Debug\Exercises.exe
+C:\Users\rob.ballantyne\source\repos\Iterations\Exercises\bin\Debug\Exercises.pdb
+C:\Users\rob.ballantyne\source\repos\Iterations\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\rob.ballantyne\source\repos\Iterations\Exercises\obj\Debug\Exercises.exe
+C:\Users\rob.ballantyne\source\repos\Iterations\Exercises\obj\Debug\Exercises.pdb

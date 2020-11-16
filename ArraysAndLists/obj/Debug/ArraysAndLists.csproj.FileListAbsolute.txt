@@ -1,0 +1,7 @@
+C:\Users\rob.ballantyne\source\repos\CSharpSchool\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+C:\Users\rob.ballantyne\source\repos\CSharpSchool\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+C:\Users\rob.ballantyne\source\repos\CSharpSchool\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+C:\Users\rob.ballantyne\source\repos\CSharpSchool\ArraysAndLists\obj\Debug\ArraysAndLists.csprojAssemblyReference.cache
+C:\Users\rob.ballantyne\source\repos\CSharpSchool\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\rob.ballantyne\source\repos\CSharpSchool\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+C:\Users\rob.ballantyne\source\repos\CSharpSchool\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
